@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "277321040760",
+    "firebase_url": "https://testeleaniin.firebaseio.com",
+    "project_id": "testeleaniin",
+    "storage_bucket": "testeleaniin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:277321040760:android:b4cada564f99285c",
+        "android_client_info": {
+          "package_name": "com.testeleaniin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgGJ_J3Ic-xQHLzdNMdqmSciyRgD0jymg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "277321040760-nuou01fb4kqgt9k02cutqn3kq53id437.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
